@@ -1,8 +1,6 @@
 package kom.task.web;
 
 import com.fasterxml.jackson.databind.node.TextNode;
-import kom.task.domain.dailydo.daydo.Daydo;
-import kom.task.domain.dailydo.todo.Todo;
 import kom.task.service.TaskService;
 import kom.task.web.dto.daydo.DaydoResponseDto;
 import kom.task.web.dto.daydo.DaydoSaveRequestDto;
